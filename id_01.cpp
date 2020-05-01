@@ -2,9 +2,9 @@
 using namepsace std;
 
 
-void idea1(){
+int  idea1(int p){
 
-
+return p*p;
 
 
 
