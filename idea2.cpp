@@ -2,8 +2,8 @@
 using namespace std;
 
 
-voif idea2(){
-
+int idea2(int p){
+return 2*p;
 
 
 }
